@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954381867317",
+    "firebase_url": "https://kljfaf-c82fc.firebaseio.com",
+    "project_id": "kljfaf-c82fc",
+    "storage_bucket": "kljfaf-c82fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954381867317:android:e95d9788821a39e7",
+        "android_client_info": {
+          "package_name": "com.example.carlos.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954381867317-rl6cq12kbfkab9k6r8842jbb1dheqfrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7TQg5anQ0aTvpaFwrklw1bZjAzgU6uY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
